@@ -20,3 +20,13 @@ section {
   height: 300px; /* Sesuaikan tinggi gambar sesuai kebutuhan */
   object-fit: cover; /* Memastikan gambar terisi penuh di area yang tersedia */
 }
+
+.img-gallery {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
